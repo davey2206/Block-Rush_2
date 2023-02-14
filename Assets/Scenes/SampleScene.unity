@@ -13578,6 +13578,10 @@ PrefabInstance:
       propertyPath: displayBalance
       value: 
       objectReference: {fileID: 1551505001}
+    - target: {fileID: 2520604157961049338, guid: 848233fac036a754b938f2a8aa51c6f2, type: 3}
+      propertyPath: StartingBalance
+      value: 100000
+      objectReference: {fileID: 0}
     - target: {fileID: 2520604157961049339, guid: 848233fac036a754b938f2a8aa51c6f2, type: 3}
       propertyPath: m_RootOrder
       value: 4
